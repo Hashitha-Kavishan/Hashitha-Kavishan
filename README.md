@@ -1,17 +1,12 @@
-## Hello, World! 👋
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-I'm Hashitha Kavishan, an aspiring Software Engineering student on a journey of turning lines of code into innovative solutions. I find joy in the process of crafting elegant software that addresses real-world challenges.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hashitha-Kavishan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hashitha-Kavishan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashitha-Kavishan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🎓 **Education:**
-- Currently pursuing my degree in Software Engineering at the Institute of Java and Software Engineering (IJSE).
-- Enthusiastic about gaining comprehensive knowledge and skills in the world of technology.
+---
+[![](https://visitcount.itsvg.in/api?id=Hashitha-Kavishan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🚀 **Skills:**
-- Proficient in languages like Java, Python, and C++.
-- Familiar with web technologies such as HTML, CSS, and JavaScript.
-- Exploring the realm of software development tools and best practices.
-
-💡 **Interests:**
-- Embarking on a continuous learning journey to stay up-to-date with emerging tech trends.
-- Developing software that not only meets functional requirements but also provides a seamless user experience.
-- Passionate about open-source contributions and collaborative coding.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
